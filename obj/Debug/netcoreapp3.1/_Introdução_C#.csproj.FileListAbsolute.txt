@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\obj\Debug\netcoreapp3.1\_Introdução_C#.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\obj\Debug\netcoreapp3.1\_Introdução_C#.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\obj\Debug\netcoreapp3.1\_Introdução_C#.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\obj\Debug\netcoreapp3.1\_Introdução_C#.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\bin\Debug\netcoreapp3.1\_Introdução_C#.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\bin\Debug\netcoreapp3.1\_Introdução_C#.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\bin\Debug\netcoreapp3.1\_Introdução_C#.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\bin\Debug\netcoreapp3.1\_Introdução_C#.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\bin\Debug\netcoreapp3.1\_Introdução_C#.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\bin\Debug\netcoreapp3.1\_Introdução_C#.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\obj\Debug\netcoreapp3.1\_Introdução_C#.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\obj\Debug\netcoreapp3.1\_Introdução_C#.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_C#\obj\Debug\netcoreapp3.1\_Introdução_C#.genruntimeconfig.cache
